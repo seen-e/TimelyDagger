@@ -12,3 +12,8 @@ __pycache__/
 *.pth
 *.ckpt
 *.safetensors
+
+# Additional upstream code ignores
+*.py[cod]
+.pytest_cache/
+.venv/
